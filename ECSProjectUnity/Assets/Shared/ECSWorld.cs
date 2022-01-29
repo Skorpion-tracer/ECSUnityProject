@@ -1,7 +1,8 @@
 using ECSCore;
 using ECSCore.BaseObjects;
 using ECSCore.Interfaces;
-//using Game;
+using GameLib;
+using GameLib.Components;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
